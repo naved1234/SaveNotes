@@ -1,0 +1,20 @@
+{
+  "name": "SaveNotes",
+  "version": "1.0.0",
+  "description": "A group of API's for user to save notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naved1234/SaveNotes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naved1234/SaveNotes/issues"
+  },
+  "homepage": "https://github.com/naved1234/SaveNotes#readme"
+}
